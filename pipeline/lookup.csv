@@ -1,0 +1,6 @@
+pipeline,resource,organisation,value,entity
+contribution-funding-status,,,secured,16900000
+contribution-funding-status,,,received,16900001
+contribution-funding-status,,,allocated,16900002
+contribution-funding-status,,,transferred,16900003
+contribution-funding-status,,,spent,16900004
